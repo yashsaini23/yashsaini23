@@ -1,115 +1,151 @@
 <div align="center">
 
-# ⚡ Yash Saini
-### **AI Systems Engineer • Data Intelligence Architect • Full-Stack Builder**
+<!-- Futuristic Cyber HUD Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,26&height=220&section=header&text=YASH%20SAINI&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%9A%A1%20AI%20%26%20ML%20DEVELOPER%20%7C%20DATA%20VISUALIZATION%20%26%20BI%20ARCHITECT&descFontSize=17&descAlignY=62&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+Production+AI+%26+Generative+Intelligence;Crafting+Enterprise+Data+Dashboards+%26+Pipelines;Zero-Database+Real-Time+Web+Streaming+Architectures;Full-Stack+Web+Applications+with+Next.js+%26+FastAPI)](https://git.io/typing-svg)
+<!-- Dynamic Cyber Typing HUD -->
+<a href="https://github.com/yashsaini23">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&multiline=true&width=840&height=70&lines=%3E_SYS_INIT%3A+Deploying+Multimodal+AI+%26+Deep+Learning+Architectures...;%3E_EXPERTISE%3A+Data+Visualization%2C+Motion+Graphics+%26+Business+Intelligence;%3E_NODE%3A+3rd+Year+Student+in+B.Tech+CS+(AI+%26+ML);%3E_DIRECTIVE%3A+Zero-Database+Real-Time+Web+Streaming+Systems" alt="Typing Telemetry"/>
+</a>
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/yashsaini23?label=Follow%20%40yashsaini23&style=for-the-badge&color=8B5CF6&logo=github)](https://github.com/yashsaini23)
-[![License: MIT](https://img.shields.io/badge/License-MIT-06B6D4?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
-[![Profile Views](https://komarev.com/ghpvc/?username=yashsaini23&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/yashsaini23)
+<!-- Interactive Cyber Connect Nodes -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/er-yash-saini-44035a309/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/ysxxhh23/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:yashsaini23082005@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL_UPLINK-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/yashsaini23">
+    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATION-00F0FF?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=yashsaini23&color=00F0FF&style=for-the-badge&label=ACCESS_LOGS" alt="Views"/>
+</p>
 
 </div>
 
 ---
 
-### 🚀 About Me
+### 🛸 `// SYSTEM_SPECIFICATION & TELEMETRY`
 
-I am an **AI Engineer and Data Architect** dedicated to architecting resilient, production-ready systems that merge deep learning, real-time data streaming, and elegant user experiences. Inspired by high-performance engineering cultures like **Linear**, **Stripe**, and **Vercel**, I focus on building software that is blazingly fast, aesthetically minimal, and architecturally sound.
-
-- 🔭 **Currently Building**: Multimodal emotion intelligence engines & commercial business intelligence telemetry platforms.
-- 💡 **Core Expertise**: LLM Orchestration (Google Gemini API), Enterprise Streamlit & Next.js full-stack applications, real-time data visualizers.
-- ⚡ **Philosophy**: Zero unnecessary complexity, instant user value, and rock-solid code maintainability.
-- 📫 **Connect with me**: [GitHub Profile](https://github.com/yashsaini23) • Available for collaborative AI & Data ventures.
+```yaml
+operator:
+  handle: "yashsaini23"
+  identity: "Yash Saini"
+  node: "Meerut, India"
+  academic_track: "3rd Year Student • B.Tech Computer Science (AI & ML)"
+  core_specializations:
+    - "Artificial Intelligence & Machine Learning Architecture"
+    - "Interactive Data Visualization & Enterprise Dashboards"
+    - "Motion Graphics & Dynamic Visual Engineering"
+    - "Commercial Business Intelligence (BI) Analytics"
+  architectural_ethos:
+    - "Zero-database live web streaming architectures"
+    - "Autonomous LLM reasoning powered by Google Gemini 2.0"
+    - "Aesthetics inspired by Linear, Stripe & Vercel: Obsidian #0B1020, Neon Cyan #00F0FF"
+```
 
 ---
 
-### 🌟 Featured Flagship Projects
+### 🪐 `// FLAGSHIP PRODUCTION DEPLOYMENTS`
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🪔 Diwali Sales Analytics Dashboard</h3>
-      <p align="center">
+    <td width="50%" valign="top" style="background: #0B1020; border: 1px solid #7928CA; border-radius: 12px; padding: 14px;">
+      <div align="center">
+        <h3>🪔 DIWALI ENTERPRISE BI MATRIX</h3>
         <a href="https://github.com/yashsaini23/diwali-sales-analytics-dashboard">
-          <img src="https://img.shields.io/badge/Status-Production%20Live-10B981?style=flat-square&logo=streamlit" alt="Status"/>
-          <img src="https://img.shields.io/badge/Theme-Antigravity%20Obsidian-8B5CF6?style=flat-square" alt="Theme"/>
+          <img src="https://img.shields.io/badge/LIVE_PLATFORM-PRODUCTION_READY-00F0FF?style=flat-square&logo=streamlit&logoColor=black" alt="Live"/>
+          <img src="https://img.shields.io/badge/THEME-ANTIGRAVITY_OBSIDIAN-7928CA?style=flat-square" alt="Theme"/>
         </a>
+      </div>
+      <br/>
+      <p>
+        Commercial enterprise-grade business intelligence dashboard designed to mirror the refined telemetry of <b>Stripe Analytics</b> and <b>Linear</b>. Evaluates 5,650+ festive transaction records across demographic vectors, price elasticity curves, cohort regressions, and automated high-resolution reporting engines.
       </p>
       <p>
-        Commercial enterprise-grade business intelligence dashboard inspired by Stripe Analytics & Linear. Built with Streamlit, Plotly, custom CSS, featuring executive KPI telemetry, regional demographic breakdowns, product elasticity matrices, and CSV/PDF export engines.
+        <code>▸ Engine:</code> Python 3.12 • Streamlit • Plotly WebGL • Pandas Core • Vectorized Math<br/>
+        <code>▸ Design:</code> Obsidian <code>#0B1020</code> • Saffron <code>#F59E0B</code> • Micro-Sparklines
       </p>
-      <p>
-        <b>Tech Stack:</b> Python, Streamlit, Plotly, Pandas, NumPy, OpenPyXL, Custom CSS
-      </p>
-      <p align="center">
-        <a href="https://github.com/yashsaini23/diwali-sales-analytics-dashboard"><b>Explore Repository ↗</b></a>
-      </p>
+      <div align="center">
+        <a href="https://github.com/yashsaini23/diwali-sales-analytics-dashboard"><b>[ INITIALIZE REPOSITORY ↗ ]</b></a>
+      </div>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌌 SentiVerse AI</h3>
-      <p align="center">
+    <td width="50%" valign="top" style="background: #0B1020; border: 1px solid #00F0FF; border-radius: 12px; padding: 14px;">
+      <div align="center">
+        <h3>🌌 SENTIVERSE AI — EMOTION RADAR</h3>
         <a href="https://github.com/yashsaini23/sentiverse-ai">
-          <img src="https://img.shields.io/badge/AI-Google%20Gemini-4285F4?style=flat-square&logo=google" alt="Gemini"/>
-          <img src="https://img.shields.io/badge/Architecture-Zero--DB%20Streaming-06B6D4?style=flat-square" alt="Zero-DB"/>
+          <img src="https://img.shields.io/badge/NEURAL_MODEL-GEMINI_2.0_FLASH-7928CA?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
+          <img src="https://img.shields.io/badge/STREAM-ZERO_LOCAL_DB-00F0FF?style=flat-square" alt="Zero-DB"/>
         </a>
+      </div>
+      <br/>
+      <p>
+        Multimodal entertainment intelligence platform transforming subjective human vibes into hyper-curated multimedia experiences. Employs <b>Google Gemini</b> to decode subtle emotional textures and synthesizes 50+ recommendations across Movies, TV, Anime, Literature, and Music directly via real-time web APIs with <b>zero local database footprint</b>.
       </p>
       <p>
-        Next-generation emotion-driven entertainment intelligence platform. Transforms nuanced subjective human feelings into curated multimedia recommendations across Cinema, TV, Anime, Books, and Music with 50+ items fetched in real time via live web APIs.
+        <code>▸ Engine:</code> Google Gemini API • FastAPI AsyncIO • Streamlit Cloud • TVMaze • Jikan • OpenLib<br/>
+        <code>▸ Design:</code> Antigravity Glassmorphism • Dynamic Emotion Radar • Ambient Nebula
       </p>
-      <p>
-        <b>Tech Stack:</b> Google Gemini API, FastAPI, Streamlit Cloud, Next.js, Plotly, AsyncIO
-      </p>
-      <p align="center">
-        <a href="https://github.com/yashsaini23/sentiverse-ai"><b>Explore Repository ↗</b></a>
-      </p>
+      <div align="center">
+        <a href="https://github.com/yashsaini23/sentiverse-ai"><b>[ INITIALIZE REPOSITORY ↗ ]</b></a>
+      </div>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Technical Stack & Tooling
+### ⚡ `// NEURAL WEAPONRY & TECH MATRIX`
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
-|---|---|
-| **Artificial Intelligence** | ![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) |
-| **Data & Analytics** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) |
-| **Backend & Cloud APIs** | ![Python](https://img.shields.io/badge/Python%203.12-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square) ![Uvicorn](https://img.shields.io/badge/Uvicorn-4051B5?style=flat-square) |
-| **Frontend & UI** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js%2014-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **DevOps & Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│  [01] COGNITIVE & NEURAL AI       Google Gemini 2.0 • PyTorch • HF    │
+│  [02] DATA & VISUALIZATION        Plotly WebGL • Pandas • NumPy • BI   │
+│  [03] ENTERPRISE RUNTIMES         Python 3.12 • FastAPI • Next.js 14   │
+│  [04] REACTIVE CLIENT SYSTEMS     Streamlit Cloud • React • Tailwind   │
+│  [05] CLOUD & DEVOPS FABRIC       Docker • Git • GitHub Actions • Edge │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,nextjs,react,ts,js,tailwind,docker,git,githubactions,linux,postgres,vscode&perline=7&theme=dark" alt="Tech Arsenal"/>
 
 </div>
 
 ---
 
-### 📊 Real-Time GitHub Telemetry & Stats
+### 📡 `// REAL-TIME SYSTEM TELEMETRY`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashsaini23&show_icons=true&theme=tokyonight&hide_border=false&border_color=8B5CF6&bg_color=0B1020&title_color=A78BFA&icon_color=38BDF8&text_color=94A3B8" alt="Yash Saini's GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashsaini23&theme=tokyonight&hide_border=false&border_color=8B5CF6&background=0B1020&stroke=8B5CF6&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="Yash Saini's Streak Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yashsaini23&show_icons=true&theme=cyberpunk&hide_border=false&border_color=00F0FF&bg_color=0B1020&title_color=00F0FF&icon_color=FF007A&text_color=94A3B8" alt="Cyberpunk Stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashsaini23&theme=cyberpunk&hide_border=false&border_color=7928CA&background=0B1020&stroke=7928CA&ring=00F0FF&fire=FF007A&currStreakLabel=00F0FF" alt="Cyberpunk Streak" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsaini23&layout=compact&theme=tokyonight&hide_border=false&border_color=8B5CF6&bg_color=0B1020&title_color=A78BFA&text_color=94A3B8" alt="Top Languages" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashsaini23&layout=compact&theme=cyberpunk&hide_border=false&border_color=00F0FF&bg_color=0B1020&title_color=00F0FF&text_color=94A3B8" alt="Language Matrix" width="60%"/>
 
 </div>
 
 ---
 
-### 🐍 Contribution Activity
+### 🧬 `// CONTRIBUTION MATRIX STREAM`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashsaini23/yashsaini23/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashsaini23/yashsaini23/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/yashsaini23/yashsaini23/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub Contribution Snake Grid" src="https://raw.githubusercontent.com/yashsaini23/yashsaini23/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -118,21 +154,26 @@ I am an **AI Engineer and Data Architect** dedicated to architecting resilient, 
 
 <div align="center">
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Yash Saini"
-        self.role = "AI Systems Engineer"
-        self.code = ["Python", "TypeScript", "SQL"]
-        self.passions = ["High-Impact AI", "Zero-Latency Systems", "Aesthetic UI"]
+<!-- Cyber Terminal Transmission -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,24,2,0&height=120&section=footer" width="100%"/>
 
-    def build(self):
-        return "Transforming Complex Data into Elegant Intelligence"
+```json
+{
+  "author": "Yash Saini",
+  "location": "Meerut, India",
+  "education": "3rd Yr B.Tech CS (AI & ML)",
+  "connect": {
+    "linkedin": "https://www.linkedin.com/in/er-yash-saini-44035a309/",
+    "instagram": "https://www.instagram.com/ysxxhh23/",
+    "email": "yashsaini23082005@gmail.com"
+  },
+  "directive": "Architecting Zero-Latency Multimodal AI Systems"
+}
 ```
 
 <br/>
 
 © 2026 **Yash Saini**. Licensed under the [MIT License](LICENSE).<br/>
-*Crafted with precision, innovation, and an unwavering commitment to quality.*
+*Transmitting Live from Meerut • Engineered with Passion & High Architectural Standards.*
 
 </div>
